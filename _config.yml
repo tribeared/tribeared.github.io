@@ -9,7 +9,7 @@
 title: tribeared
 email: tribeared@protonmail.ch
 description: > # this means to ignore newlines until "baseurl:"
-  This site's code is available at "https://github.com/tribeared/tribeared.github.io"
+  yo. this is a personal web space of tribeared. very much a work in progress.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: tribeared
